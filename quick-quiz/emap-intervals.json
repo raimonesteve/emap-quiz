@@ -1,0 +1,342 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "5 1/2 T",
+        "4 1/2 T",
+        "5 T",
+        "6 T"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Interval 8: 6 T"
+      },
+      "number": 1,
+      "prompt": "Interval 8?"
+    },
+    {
+      "answers": [
+        "1 T",
+        "1/2 T",
+        "2 T",
+        "1 T"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Interval 2: 1 T"
+      },
+      "number": 2,
+      "prompt": "Interval 2?"
+    },
+    {
+      "answers": [
+        "5 1/2 T",
+        "4 1/2 T",
+        "5 T",
+        "4 T"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Interval 7 (sensible): 5 1/2 T"
+      },
+      "number": 3,
+      "prompt": "Interval 7 (sensible)?"
+    },
+    {
+      "answers": [
+        "1 T",
+        "1 1/2 T",
+        "2 T",
+        "3 1/2 T"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Interval 3b: 1 1/2 T"
+      },
+      "number": 4,
+      "prompt": "Interval 3b?"
+    },
+    {
+      "answers": [
+        "2 1/2 T",
+        "1 1/2 T",
+        "3 T",
+        "2 T"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Interval 4: 2 1/2 T"
+      },
+      "number": 5,
+      "prompt": "Interval 4?"
+    },
+    {
+      "answers": [
+        "3 T",
+        "4 1/2 T",
+        "5 T",
+        "4 T"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Interval 7\u266d: 5 T"
+      },
+      "number": 6,
+      "prompt": "Interval 7\u266d?"
+    },
+    {
+      "answers": [
+        "3 T",
+        "4 1/2 T",
+        "5 T",
+        "4 T"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Interval 6: 4 1/2 T"
+      },
+      "number": 7,
+      "prompt": "Interval 6?"
+    },
+    {
+      "answers": [
+        "1 T",
+        "1 1/2 T",
+        "2 T",
+        "3 1/2 T"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Interval 3: 2 T"
+      },
+      "number": 8,
+      "prompt": "Interval 3?"
+    },
+    {
+      "answers": [
+        "3 T",
+        "3 1/2 T",
+        "5 T",
+        "2 T"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Interval 4#/5\u266d: 3 T"
+      },
+      "number": 9,
+      "prompt": "Interval 4#/5\u266d?"
+    },
+    {
+      "answers": [
+        "1 T",
+        "1/2 T",
+        "2 T",
+        "3 1/2 T"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Interval 2b: 1/2 T"
+      },
+      "number": 10,
+      "prompt": "Interval 2b?"
+    },
+    {
+      "answers": [
+        "3 T",
+        "3 1/2 T",
+        "5 T",
+        "4 T"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Interval 5: 3 1/2 T"
+      },
+      "number": 11,
+      "prompt": "Interval 5?"
+    },
+    {
+      "answers": [
+        "3 T",
+        "3 1/2 T",
+        "5 T",
+        "4 T"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Interval 5#/6\u266d: 4 T"
+      },
+      "number": 12,
+      "prompt": "Interval 5#/6\u266d?"
+    },
+    {
+      "answers": [
+        "8",
+        "5",
+        "7",
+        "7\u266d"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Interval 6 T: 8"
+      },
+      "number": 13,
+      "prompt": "Interval 6 T?"
+    },
+    {
+      "answers": [
+        "2\u266d",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Interval 1 T: 2"
+      },
+      "number": 14,
+      "prompt": "Interval 1 T?"
+    },
+    {
+      "answers": [
+        "5 1/2 T",
+        "5",
+        "4",
+        "4 1/2"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Interval 5 1/2 T: 7 (sensible)"
+      },
+      "number": 15,
+      "prompt": "Interval 5 1/2 T?"
+    },
+    {
+      "answers": [
+        "3",
+        "3b",
+        "2 T",
+        "2 1/2 T"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Interval 1 1/2 T: 3b"
+      },
+      "number": 16,
+      "prompt": "Interval 1 1/2 T?"
+    },
+    {
+      "answers": [
+        "4",
+        "3\u266d",
+        "4\u266d",
+        "4#/5\u266d"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Interval 2 1/2 T: 4"
+      },
+      "number": 17,
+      "prompt": "Interval 2 1/2 T?"
+    },
+    {
+      "answers": [
+        "6",
+        "8",
+        "7\u266d",
+        "7"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Interval 5 T: 7\u266d"
+      },
+      "number": 18,
+      "prompt": "Interval 5 T?"
+    },
+    {
+      "answers": [
+        "7\u266d",
+        "6",
+        "5#/6\u266d",
+        "4#/5\u266d"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Interval 4 1/2 T: 6"
+      },
+      "number": 19,
+      "prompt": "Interval 4 1/2 T?"
+    },
+    {
+      "answers": [
+        "4#/5\u266d",
+        "4",
+        "3",
+        "3\u266d"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Interval 2 T: 3"
+      },
+      "number": 20,
+      "prompt": "Interval 2 T?"
+    },
+    {
+      "answers": [
+        "4#/5\u266d",
+        "5",
+        "4",
+        "3"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Interval 3 T: 4#/5\u266d"
+      },
+      "number": 21,
+      "prompt": "Interval 3 T?"
+    },
+    {
+      "answers": [
+        "2",
+        "2b",
+        "3b",
+        "5"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Interval 1/2 T: 2b"
+      },
+      "number": 22,
+      "prompt": "Interval 1/2 T?"
+    },
+    {
+      "answers": [
+        "4#/5\u266d",
+        "5",
+        "5#/6\u266d",
+        "3"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Interval 3 1/2 T: 5"
+      },
+      "number": 23,
+      "prompt": "Interval 3 1/2 T?"
+    },
+    {
+      "answers": [
+        "3 T",
+        "4#/5\u266d",
+        "6",
+        "5#/6\u266d"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Interval 4 T: 5#/6\u266d"
+      },
+      "number": 24,
+      "prompt": "Interval 4 T?"
+    }
+  ],
+  "title": "EMAP Intervals",
+  "url": null
+}

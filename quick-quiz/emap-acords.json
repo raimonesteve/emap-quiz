@@ -1,0 +1,248 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Major",
+        "Menor",
+        "No existeix"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 1,
+      "prompt": "T T ST/ T T T S/T?"
+    },
+    {
+      "answers": [
+        "Major",
+        "Menor",
+        "No existeix"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 2,
+      "prompt": "T ST/ T T S/T?"
+    },
+    {
+      "answers": [
+        "Major",
+        "Menor",
+        "No existeix"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 3,
+      "prompt": "T ST/ T T S/T T T?"
+    },
+    {
+      "answers": [
+        "Major",
+        "Menor",
+        "No existeix"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "No existeix"
+      },
+      "number": 4,
+      "prompt": "T ST/ T S/T T T T?"
+    },
+    {
+      "answers": [
+        "T 3 5",
+        "T 3b 5",
+        "T 3b 5b"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 5,
+      "prompt": "A-?"
+    },
+    {
+      "answers": [
+        "T 3 5",
+        "T 3b 5",
+        "T 3b 5b"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 6,
+      "prompt": "A?"
+    },
+    {
+      "answers": [
+        "T 3 5 7",
+        "T 3 5 7b",
+        "T 3b 5 7b"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 7,
+      "prompt": "A\u0394?"
+    },
+    {
+      "answers": [
+        "T 3 5 7",
+        "T 3 5b 7b",
+        "T 3b 5b",
+        "T 3 5",
+        "T 3 5b"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 8,
+      "prompt": "Ao?"
+    },
+    {
+      "answers": [
+        "T 3 5b 7b",
+        "T 3 5b 7",
+        "T 3b 5b 7b"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 9,
+      "prompt": "A\u00f8?"
+    },
+    {
+      "answers": [
+        "T 3 5 7b",
+        "T 3b 5 7b",
+        "T 3 5 7"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 10,
+      "prompt": "A7?"
+    },
+    {
+      "answers": [
+        "AM",
+        "Am",
+        "A-7"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 11,
+      "prompt": "A-?"
+    },
+    {
+      "answers": [
+        "Am",
+        "AM",
+        "AMaj7"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 12,
+      "prompt": "A\u0394?"
+    },
+    {
+      "answers": [
+        "A7",
+        "A-7",
+        "A-7 (5b)",
+        "A-7 (5)"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 13,
+      "prompt": "A\u00f8?"
+    },
+    {
+      "answers": [
+        "Am7",
+        "AM7"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 14,
+      "prompt": "A-7?"
+    },
+    {
+      "answers": [
+        "B Major",
+        "A Major",
+        "C Major"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 15,
+      "prompt": "Armadura: F# - C# - G# - D# - A#?"
+    },
+    {
+      "answers": [
+        "C# Major",
+        "C Major",
+        "B Major"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 16,
+      "prompt": "Armadura: F# - C# - G# - D# - A# - E# - B#?"
+    },
+    {
+      "answers": [
+        "A Major",
+        "G Major",
+        "A# Major"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 17,
+      "prompt": "Armadura: F# - C# - G#?"
+    },
+    {
+      "answers": [
+        "Eb Major",
+        "A#b Major",
+        "Eb Major"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 18,
+      "prompt": "Armadura: Bb - Eb - Ab?"
+    },
+    {
+      "answers": [
+        "Ab Major",
+        "A Major",
+        "D Major"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 19,
+      "prompt": "Armadura: Bb - Eb - Ab - Db?"
+    },
+    {
+      "answers": [
+        "F Mayor - D Menor",
+        "B Major"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 20,
+      "prompt": "Armadura: Bb?"
+    }
+  ],
+  "title": "EMAP Intervals",
+  "url": "http://www.creandopartituras.com/ejercicios/de-tonalidades/tonalidades-y-armaduras-interactivos/"
+}

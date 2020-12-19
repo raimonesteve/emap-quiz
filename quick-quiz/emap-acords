@@ -1,0 +1,153 @@
+// example quiz text
+// @bsouthga
+// <- (this is a comment and will be ignored)
+
+// this is the url for the parent
+url: http://www.creandopartituras.com/ejercicios/de-tonalidades/tonalidades-y-armaduras-interactivos/
+
+// this is the title of the quiz
+# EMAP Intervals
+
+// this is an example question.
+// the number signifies the question order,
+// meaning questions can be placed in random order
+// within the file
+1) T T ST/ T T T S/T?
+  * Major
+  - Menor
+  - No existeix
+
+
+
+2) T ST/ T T S/T?
+  - Major
+  - Menor
+  * No existeix
+
+
+
+3) T ST/ T T S/T T T?
+  - Major
+  * Menor
+  - No existeix
+
+
+
+4) T ST/ T S/T T T T?
+  - Major
+  - Menor
+  * No existeix
+
+  No existeix
+
+5) A-?
+  - T 3 5
+  * T 3b 5
+  - T 3b 5b
+
+
+
+6) A?
+  * T 3 5
+  - T 3b 5
+  - T 3b 5b
+
+
+
+7) AΔ?
+  * T 3 5 7
+  - T 3 5 7b
+  - T 3b 5 7b
+
+
+
+8) Ao?
+  - T 3 5 7
+  - T 3 5b 7b
+  * T 3b 5b
+  - T 3 5
+  - T 3 5b
+
+
+
+9) Aø?
+  - T 3 5b 7b
+  - T 3 5b 7
+  * T 3b 5b 7b
+
+
+
+10) A7?
+  * T 3 5 7b
+  - T 3b 5 7b
+  - T 3 5 7
+
+
+
+11) A-?
+  - AM
+  * Am
+  - A-7
+
+
+
+12) AΔ?
+  - Am
+  - AM
+  * AMaj7
+
+
+
+13) Aø?
+  - A7
+  - A-7
+  * A-7 (5b)
+  - A-7 (5)
+
+
+
+14) A-7?
+  * Am7
+  - AM7
+
+
+
+15)Armadura: F# - C# - G# - D# - A#?
+  * B Major
+  - A Major
+  - C Major
+
+
+
+16)Armadura: F# - C# - G# - D# - A# - E# - B#?
+  - C# Major
+  * C Major
+  - B Major
+
+
+
+17)Armadura: F# - C# - G#?
+  * A Major
+  - G Major
+  - A# Major
+
+
+
+18)Armadura: Bb - Eb - Ab?
+  * Eb Major
+  - A#b Major
+  - Eb Major
+
+
+
+19)Armadura: Bb - Eb - Ab - Db?
+  * Ab Major
+  - A Major
+  - D Major
+
+
+
+20)Armadura: Bb?
+  * F Mayor - D Menor
+  - B Major
+  - F# Major

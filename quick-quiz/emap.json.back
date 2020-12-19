@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "1 T",
+        "1 1/2 T",
+        "2 T",
+        "2 1/2 T"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Interval 3b: 1 1/2 T"
+      },
+      "number": 1,
+      "prompt": "Interval 3b?"
+    },
+    {
+      "answers": [
+        "1 T",
+        "1 1/2 T",
+        "2 T",
+        "2 1/2 T"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Interval 3: 2 T"
+      },
+      "number": 2,
+      "prompt": "Interval 3?"
+    },
+    {
+      "answers": [
+        "1/2 T",
+        "1 T",
+        "1 1/2 T",
+        "2 T",
+        "2 1/2 T"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Interval 2b: 1/2 T"
+      },
+      "number": 0,
+      "prompt": "Interval 2b?"
+    }
+  ],
+  "title": "EMAP Teoria",
+  "url": ""
+}

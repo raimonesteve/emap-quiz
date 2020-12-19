@@ -1,0 +1,205 @@
+// example quiz text
+// @bsouthga
+// <- (this is a comment and will be ignored)
+
+// this is the url for the parent
+url:
+
+// this is the title of the quiz
+# EMAP Intervals
+
+// this is an example question.
+// the number signifies the question order,
+// meaning questions can be placed in random order
+// within the file
+1) Interval 8?
+  - 5 1/2 T
+  - 4 1/2 T
+  - 5 T
+  * 6 T
+
+  Interval 8: 6 T
+
+2) Interval 2?
+  - 3 T
+  - 1/2 T
+  - 2 T
+  * 1 T
+
+  Interval 2: 1 T
+
+3) Interval 7 (sensible)?
+  * 5 1/2 T
+  - 4 1/2 T
+  - 5 T
+  - 4 T
+
+  Interval 7 (sensible): 5 1/2 T
+
+4) Interval 3♭?
+  - 1 T
+  * 1 1/2 T
+  - 2 T
+  - 3 1/2 T
+
+  Interval 3♭: 1 1/2 T
+
+5) Interval 4?
+  * 2 1/2 T
+  - 1 1/2 T
+  - 3 T
+  - 2 T
+
+  Interval 4: 2 1/2 T
+
+6) Interval 7♭?
+  - 3 T
+  - 4 1/2 T
+  * 5 T
+  - 4 T
+
+  Interval 7♭: 5 T
+
+7) Interval 6?
+  - 3 T
+  * 4 1/2 T
+  - 5 T
+  - 4 T
+
+  Interval 6: 4 1/2 T
+
+8) Interval 3?
+  - 1 T
+  - 1 1/2 T
+  * 2 T
+  - 3 1/2 T
+
+  Interval 3: 2 T
+
+9) Interval 4#/5♭?
+  * 3 T
+  - 3 1/2 T
+  - 5 T
+  - 2 T
+
+  Interval 4#/5♭: 3 T
+
+10) Interval 5#/6♭?
+  - 3 T
+  - 3 1/2 T
+  - 5 T
+  * 4 T
+
+  Interval 5#/6♭: 4 T
+
+11) Interval 2♭?
+  - 1 T
+  * 1/2 T
+  - 2 T
+  - 3 1/2 T
+
+  Interval 2♭: 1/2 T
+
+12) Interval 5?
+  - 3 T
+  * 3 1/2 T
+  - 5 T
+  - 4 T
+
+  Interval 5: 3 1/2 T
+
+13) Interval 1 T?
+  - 2♭
+  * 2
+  - 3
+  - 4
+
+  Interval 1 T: 2
+
+14) Interval 5 1/2 T?
+  * 7 (sensible)
+  - 5
+  - 4
+  - 4 1/2
+
+  Interval 5 1/2 T: 7 (sensible)
+
+15) Interval 6 T?
+  * 8
+  - 5
+  - 7
+  - 7♭
+
+  Interval 6 T: 8
+
+16) Interval 1 1/2 T?
+  - 3
+  * 3♭
+  - 2 T
+  - 2 1/2 T
+
+  Interval 1 1/2 T: 3♭
+
+17) Interval 2 1/2 T?
+  * 4
+  - 3♭
+  - 4♭
+  - 4#/5♭
+
+  Interval 2 1/2 T: 4
+
+18) Interval 5 T?
+  - 6
+  - 8
+  * 7♭
+  - 7
+
+  Interval 5 T: 7♭
+
+19) Interval 4 1/2 T?
+  - 7♭
+  * 6
+  - 5#/6♭
+  - 4#/5♭
+
+  Interval 4 1/2 T: 6
+
+20) Interval 2 T?
+  - 4#/5♭
+  - 4
+  * 3
+  - 3♭
+
+  Interval 2 T: 3
+
+21) Interval 3 T?
+  * 4#/5♭
+  - 5
+  - 4
+  - 3
+
+  Interval 3 T: 4#/5♭
+
+22) Interval 1/2 T?
+  - 2
+  * 2♭
+  - 3♭
+  - 5
+
+  Interval 1/2 T: 2♭
+
+23) Interval 3 1/2 T?
+  - 4#/5♭
+  * 5
+  - 5#/6♭
+  - 3
+
+  Interval 3 1/2 T: 5
+
+24) Interval 4 T?
+  - 3 T
+  - 4#/5♭
+  - 6
+  * 5#/6♭
+
+  Interval 4 T: 5#/6♭
